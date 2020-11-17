@@ -1,0 +1,21 @@
+{
+    "bot": {
+        "token": "Nzc4MTQ2NjgwMjMwMjQ4NDY4.X7NvkQ.xiugdb_Jd5uHkOjoUW9xcxdxW9o",
+        "secret": "_6Nx8JY4BU5OS-N6RluTP7chGwRW8ObR",
+        "ownerId": "577393790495490048",
+        "activity": "2PG.xyz",
+        "id": "<discord_bot_id>"
+    },
+    "api": {
+        "port": "3000",
+        "url": "https://ysbmod.glitch.me/api",
+        "stripeSecretKey": "<sk_test_...>",        
+        "stripeWebhookSecret": "<whsec_...>"
+    },
+    "guild": {
+        "id": "<support_guild_id>",
+        "premiumRoleId": "<premium_role_id>"
+    },
+    "dashboardURL": "https://ysbmod.glitch.me",
+    "mongoURI": "mongodb://user:FaaHh8OrUrJrDfnB@cluster0-shard-00-00.u0bkx.mongodb.net:27017,cluster0-shard-00-01.u0bkx.mongodb.net:27017,cluster0-shard-00-02.u0bkx.mongodb.net:27017/user?ssl=true&replicaSet=atlas-fnhsfu-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
